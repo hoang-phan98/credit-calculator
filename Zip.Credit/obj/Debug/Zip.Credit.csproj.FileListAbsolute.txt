@@ -1,0 +1,34 @@
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.csproj.AssemblyReference.cache
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.exe.config
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.csproj.CoreCompileInputs.cache
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/Zip.Credit.exe.config
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/Zip.Credit.exe
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/Zip.Credit.pdb
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.abstractions.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.assert.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.core.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.execution.desktop.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.abstractions.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.assert.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.core.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/bin/Debug/xunit.execution.desktop.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.csproj.CopyComplete
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.exe
+/Users/hphan/RiderProjects/ConsoleApplication2/Zip.Credit/obj/Debug/Zip.Credit.pdb
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/Zip.Credit.exe.config
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/Zip.Credit.exe
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/Zip.Credit.pdb
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.abstractions.dll
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.assert.dll
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.core.dll
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.execution.desktop.dll
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.abstractions.xml
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.assert.xml
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.core.xml
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/bin/Debug/xunit.execution.desktop.xml
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.csproj.AssemblyReference.cache
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.exe.config
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.csproj.CoreCompileInputs.cache
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.csproj.CopyComplete
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.exe
+/Users/hphan/RiderProjects/Credit Calculator/Zip.Credit/obj/Debug/Zip.Credit.pdb

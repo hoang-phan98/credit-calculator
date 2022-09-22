@@ -1,0 +1,17 @@
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.pdb
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.AssemblyReference.cache
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.CoreCompileInputs.cache
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.pdb
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe.config
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe.config
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.abstractions.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.assert.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.core.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.execution.desktop.dll
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.abstractions.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.assert.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.core.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/xunit.execution.desktop.xml
+/Users/hphan/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.CopyComplete
